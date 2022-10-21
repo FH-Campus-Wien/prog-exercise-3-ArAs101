@@ -164,8 +164,8 @@ public class App {
         // make method calls
         // print their results
         // etc.
-        //oneMonthCalendar(31, 6);
-        //lcg(10);
+        oneMonthCalendar(31, 6);
+        lcg(10);
         //guessingGame(randomNumberBetweenOneAndHundred());
         //swapArrays(int[] array1,int[] array2);
     }
